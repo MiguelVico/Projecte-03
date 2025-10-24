@@ -2,7 +2,7 @@
 
 ## EverPia 2: “Sobreviure en una empresa IT”
 
-Després de mesos de feina intensa, nits de pizza i commits a última hora, la consultora EverPia ha viscut el seu primer gran èxit. Els clients estan contents, les presentacions van triomfar i, fins i tot, els tècnics van aconseguir fer funcionar el servidor… sense reiniciar-lo cada cinc minuts.  
+Després de mesos de feina intensa, nits de pizza i commits a última hora, la consultora EverPia ha viscut el seu primer gran èxit. Els clients estan contents, les presentacions van triomfar i, fins i tot, nosaltres, els tècnics, vam aconseguir fer funcionar el servidor… sense reiniciar-lo cada cinc minuts.  
 Un miracle digne d’estudi.  
 Però com diu la llegenda del sector IT:  
 “Quan tot funciona, és que no ho has mirat prou bé.”
@@ -13,12 +13,12 @@ Aquest segon… és una prova de supervivència.
 Benvinguts a **EverPia 2: “Sobreviure en una empresa IT”**, una simulació (massa realista) del que passa quan una empresa tecnològica comença a créixer i a rebre més clients dels que pot gestionar.
 
 Quan el volum augmenta, els problemes també.  
-I quan els servidors cremen, vosaltres sou els bombers digitals.
+I quan els servidors cremen, nosaltres som els bombers digitals.
 
-EverPia ja no és una petita consultora. Ara gestiona clients, contractes i serveis crítics 24/7.  
+EverPia ja no és una petita consultora. Ara gestionem clients, contractes i serveis crítics 24/7.  
 L’equip ha crescut, els projectes s’han multiplicat i el pressupost… bé, el pressupost segueix sent el mateix.  
-Els antics alumnes (vosaltres) heu ascendit. Sou els tècnics júnior del departament IT, i us acaben d’assignar el vostre primer gran repte: **mantenir viva la infraestructura d’EverPia.**  
-El vostre dia a dia?  
+Hem ascendit: som els tècnics júnior del departament IT, i ens acaben d’assignar el nostre primer gran repte: **mantenir viva la infraestructura d’EverPia.**  
+El nostre dia a dia?  
 Apagar focs, resoldre incidències, respondre tickets, mantenir sistemes, documentar-ho tot (abans que algú formategi per error) i, si queda temps, aprendre a no perdre els nervis.  
 És la vida real dins una empresa IT: **el caos ben documentat.**
 
@@ -28,7 +28,7 @@ Apagar focs, resoldre incidències, respondre tickets, mantenir sistemes, docume
 
 Aquest projecte és la segona temporada d’una sèrie que acaba d’arrencar.  
 Si EverPia 1 era sobre construir, EverPia 2 és sobre sobreviure.  
-La vostra missió és demostrar que sou capaços de:
+La nostra missió és demostrar que som capaços de:
 
 - Resoldre problemes reals d’una infraestructura IT.  
 - Gestionar serveis essencials (DNS, LDAP, LVM…).  
@@ -53,7 +53,7 @@ Cada “pantalla blava” és un examen de serenitat.
 Cada “no sé què ha passat, però ara funciona” és un triomf silenciós.  
 
 Aquest projecte no és només un conjunt de pràctiques, sinó una immersió total en el món real de les empreses IT.  
-Aprendreu que no n’hi ha prou amb saber instal·lar, sinó que cal entendre, prevenir i comunicar.  
+Aprenem que no n’hi ha prou amb saber instal·lar, sinó que cal entendre, prevenir i comunicar.  
 
 Perquè a EverPia, el lema és clar:  
 **“Si sobrevius a això... pots sobreviure a qualsevol empresa.”**
@@ -63,8 +63,8 @@ Perquè a EverPia, el lema és clar:
 ### ✨ Epíleg: l’oportunitat
 
 Sí, és dur.  
-Sí, tindreu moments en què voldreu llençar el teclat per la finestra.  
-Però també descobrireu què significa treballar com a autèntics professionals del món IT: analitzar, decidir, coordinar i mantenir sistemes crítics.  
+Sí, hi haurà moments en què voldrem llençar el teclat per la finestra.  
+Però també descobrirem què significa treballar com a autèntics professionals del món IT: analitzar, decidir, coordinar i mantenir sistemes crítics.  
 
 A més, EverPia segueix sent una de les millors empreses on començar:  
 on cada projecte és una història,  
@@ -73,4 +73,4 @@ i cada tècnic… un heroi anònim del backend.
 
 Benvinguts a **EverPia 2: “Sobreviure en una empresa IT”**  
 El foc ja està encès.  
-Ara és el vostre torn d’agafar l’extintor… i el teclat.
+Ara és el nostre torn d’agafar l’extintor… i el teclat.
