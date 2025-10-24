@@ -66,6 +66,8 @@ Després iniciem sessió amb el mateix correu i contrasenya que hem utilitzat an
 
 I ja tindrem **Bitwarden** com una extensió.
 
+![demostracio de la extensio de bitwarden ja instalada.](/tasca01/img/T01.11.png)
+
 ---
 
 ## 4. Gestió de Còpies de Seguretat (Backup):
@@ -74,6 +76,8 @@ I ja tindrem **Bitwarden** com una extensió.
 
 Per fer una còpia de seguretat de l'arxiu de contrasenyes a Bitwarden haurem de clicar a l’apartat de **fitxer** i **exporta caixa forta**.
 
+![clicant a exporta caixa forta.](/tasca01/img/T01.12.png)
+
 ---
 
 Després seleccionarem el format de l’exportació:
@@ -81,12 +85,18 @@ Després seleccionarem el format de l’exportació:
 - **.JSON:** format recomanat, manté tota la informació estructurada.  
 - **.CSV:** format més senzill, però menys segur (evita’l si pots).
 
+![menu de seleccio de format de la exportacio.](/tasca01/img/T01.13.png)
+
 ---
 
 Després introduirem la **contrasenya mestra** per confirmar la identitat.
 
+![menu per introduir la contrasenya mestra de la caixa forta.](/tasca01/img/T01.14.png)
+
 I una vegada fet això, **desa el fitxer exportat** al teu ordinador.  
 Aquest fitxer conté totes les teves contrasenyes en text llegible, així que **no l’has de deixar sense protecció!**
+
+![captura de dmostracio de com es desa el fitxer.](/tasca01/img/T01.15.png)
 
 ---
 
@@ -107,6 +117,11 @@ Per garantir la màxima seguretat, és recomanable seguir aquestes pautes:
 
 Per restaurar una còpia de seguretat, clica a **fitxer** i després a **importa dades**.
 
+![captura clicant a importa dades.](/tasca01/img/T01.16.png)
+
 Selecciona el mateix format en què vas fer la còpia (**.JSON** o **.CSV**).  
 Carrega el fitxer i totes les contrasenyes es tornaran a importar automàticament.
+
+![menu de importacio de dades de la caixa forta.](/tasca01/img/T01.17.png)
+
 
