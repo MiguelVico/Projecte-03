@@ -1,104 +1,92 @@
-# 🧰 Fase 2: Guia d'Ús Tècnica (Manual Operatiu)
+# Fase 2: Guia d'Ús Tècnica (Manual Operatiu)
 
 ---
 
-## 🔑 Iniciar sessió a Bitwarden
-
-1. Accedeix a [Bitwarden](https://bitwarden.com/) i inicia sessió amb el **teu correu electrònic corporatiu**.  
-2. Introdueix la **contrasenya mestra** per accedir a la teva caixa forta.  
+Per instalar bitwarden haurem de buscar bitwarden descargar o bitwarden download, seleccionar l'opció de portable app for Flash Drives una vegada se'ns instal·li l'arxiu obrirem i ja tindrem bitwarden instal·lat.
 
 ---
 
-## 🧭 Menú principal
-
-Un cop iniciada la sessió, veuràs el **menú principal de Bitwarden**, on podràs gestionar totes les teves credencials, carpetes i opcions de seguretat.
+Iniciar sessió a bitwarden amb el nostre correu.
 
 ---
 
-## 🔢 Generador de contrasenyes
-
-Per crear una contrasenya segura i única:
-
-1. A la barra lateral, fes clic a **“Mostra”**.  
-2. Selecciona **“Generador”**.  
-3. Apareixerà un menú on podràs **configurar la longitud** i **els tipus de caràcters** (majúscules, minúscules, números, símbols).  
-4. Copia o desa la contrasenya generada per utilitzar-la en un nou compte.
+Una vegada iniciem sessió a bitwarden tindrem aquest menu.
 
 ---
 
-## 📧 Desar una credencial d’un compte de correu electrònic
-
-1. Fes clic al botó **“+”**.  
-2. Tria l’opció **“Inici de sessió”**.  
-3. Omple tots els camps que es demanen:  
-   - Nom de l’element (p. ex. “Compte Gmail”).  
-   - Nom d’usuari o correu electrònic.  
-   - Contrasenya.  
-   - URL del servei (opcional).  
-4. Finalment, fes clic a **“Guarda”** per desar la credencial.
+Per utilitzar el generador de contrasenyes s’ha de clicar a l’apartat **mostra**, i seguidament clicar a **generador**, s’obrira aquest menú on podem seleccionar la longitud i els tipus de caràcters de la contrasenya.
 
 ---
 
-## 🌐 Desar una credencial d’una aplicació o servei web
+### Com desar una credencial d'un compte de correu electrònic.
 
-1. A la part inferior de la pantalla, fes clic al **signe “+”**.  
-2. Selecciona **“Inici de sessió”**.  
-3. Completa tots els apartats (nom, usuari, contrasenya, URL, notes, etc.).  
-4. Fes clic a **“Guarda”** per enregistrar la nova credencial.  
+Per desar una credencial d'un compte de correu electrònic s’ha de clicar al **+**, i després a **inici de sessió**, després haurem de completar tots els apartats que és soliciten.
 
 ---
 
-## 🧩 Extensió del navegador (Emplenament automàtic)
-
-Per utilitzar Bitwarden des del navegador i emplenar automàticament les dades:
-
-1. Entra a la **Chrome Web Store**.  
-2. Busca **“Bitwarden Password Manager”** i fes clic a **“Afegeix a Chrome”**.  
-3. Inicia sessió amb el **mateix correu i contrasenya mestra** que has utilitzat anteriorment.  
-4. Ara ja tindràs **Bitwarden com a extensió** al navegador i podràs fer servir l’emplenament automàtic a les webs.
+Una vegada complerts tots els apartats clicarem a **guarda** i ja tindrem el nostre credencial d'un compte de correu electrònic.
 
 ---
 
-## 💾 Gestió de Còpies de Seguretat (Backup)
+### Com desar una credencial d'una aplicació o servei web:
 
-### 🔹 Crear una còpia de seguretat
-
-Per exportar la teva base de dades de contrasenyes:
-
-1. A Bitwarden, ves a **Fitxer → Exporta caixa forta**.  
-2. Selecciona el **format d’exportació**:
-   - `.JSON`: format recomanat, manté tota la informació estructurada.  
-   - `.CSV`: format senzill però **menys segur** (evita’l si pots).  
-3. Introdueix la **contrasenya mestra** per confirmar la identitat.  
-4. Desa el fitxer exportat al teu ordinador.
-
-⚠️ **Important:** Aquest fitxer conté totes les teves contrasenyes en text llegible. No el deixis sense protecció!
+Per desar una credencial d'una aplicació o servei web haurem de clicar al signe de **+** a la part inferior de la pantalla i seleccionar l’opció d'**inici de sessió** i després haurem de completar tots els apartats que és soliciten.
 
 ---
 
-### 🧱 Bones pràctiques per desar la còpia de seguretat
-
-Per garantir la màxima seguretat:
-
-- ❌ No deixis mai la còpia al teu ordinador sense xifrar.  
-- 🔐 Desa-la en un lloc segur, com ara:
-  - Una **clau USB xifrada** protegida amb contrasenya.  
-  - Un **disc extern** amb **BitLocker (Windows)** o **FileVault (Mac)**.  
-  - Un **servei de núvol amb xifratge d’extrem a extrem**, com **Tresorit**, **Sync.com** o **MEGA**.  
-- 🔁 Fes **còpies periòdiques**, especialment si afegeixes o modifiques moltes contrasenyes.  
-- 🚫 No comparteixis mai el fitxer d’exportació ni la teva **contrasenya mestra** amb ningú.
+Una vegada complerts tots els apartats clicarem a **guarda** i ja tindrem una credencial d'una aplicació o servei web.
 
 ---
 
-### 🔹 Restaurar una còpia de seguretat
+### Com fer servir l’extensió del navegador per emplenar automàticament les dades:
 
-Per restaurar les teves contrasenyes:
+Primer entrem a la **Chrome Web Store**, busquem **Bitwarden** i l’instalem.
 
-1. Ves a **Fitxer → Importa dades**.  
-2. Selecciona el **mateix format** que vas utilitzar per fer la còpia (`.JSON` o `.CSV`).  
-3. Carrega el fitxer desat.  
-4. Bitwarden **importarà automàticament totes les contrasenyes** al teu compte.
+Després iniciem sessió amb el mateix correu i contrasenya que hem utilitzat anteriorment.
+
+I ja tindrem **Bitwarden** com una extensió.
 
 ---
 
-📘 *Aquesta guia assegura que el personal tècnic pugui utilitzar Bitwarden de manera eficient i segura per protegir totes les credencials corporatives.*
+## 4. Gestió de Còpies de Seguretat (Backup):
+
+**Explicació detallada de com fer una còpia de seguretat de l'arxiu de contrasenyes (KDBX en KeePass o Exportació en Bitwarden).**
+
+Per fer una còpia de seguretat de l'arxiu de contrasenyes a Bitwarden haurem de clicar a l’apartat de **fitxer** i **exporta caixa forta**.
+
+---
+
+Després seleccionarem el format de l’exportació:
+
+- **.JSON:** format recomanat, manté tota la informació estructurada.  
+- **.CSV:** format més senzill, però menys segur (evita’l si pots).
+
+---
+
+Després introduirem la **contrasenya mestra** per confirmar la identitat.
+
+I una vegada fet això, **desa el fitxer exportat** al teu ordinador.  
+Aquest fitxer conté totes les teves contrasenyes en text llegible, així que **no l’has de deixar sense protecció!**
+
+---
+
+### Bones pràctiques per desar la còpia de seguretat:
+
+Per garantir la màxima seguretat, és recomanable seguir aquestes pautes:
+
+- No deixis mai la còpia al teu ordinador sense xifrar.  
+  Si algú accedeix al teu equip, podria llegir totes les contrasenyes.
+- Emmagatzema la còpia en un lloc segur, com:
+  - Una clau USB xifrada, protegida amb contrasenya.
+  - Un disc extern protegit amb **BitLocker** (Windows) o **FileVault** (Mac).
+  - Un servei de núvol amb xifratge d’extrem a extrem, com ara **Tresorit**, **Sync.com** o **MEGA**.
+- Fes còpies periòdiques, especialment si afegeixes o modifiques moltes contrasenyes.
+- No comparteixis mai el fitxer d’exportació ni la teva contrasenya mestra amb ningú.
+
+---
+
+Per restaurar una còpia de seguretat, clica a **fitxer** i després a **importa dades**.
+
+Selecciona el mateix format en què vas fer la còpia (**.JSON** o **.CSV**).  
+Carrega el fitxer i totes les contrasenyes es tornaran a importar automàticament.
+
