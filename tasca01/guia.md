@@ -4,19 +4,25 @@
 
 Per instalar bitwarden haurem de buscar bitwarden descargar o bitwarden download, seleccionar l'opció de portable app for Flash Drives una vegada se'ns instal·li l'arxiu obrirem i ja tindrem bitwarden instal·lat.
 
+![instalacio bitwarden](/tasca01/img/T01.1.png)
+
 ---
 
 Iniciar sessió a bitwarden amb el nostre correu.
 
-![instalacio bitwarden](/tasca01/img/T01.1.png)
+![inici de sessió](/tasca01/img/T01.2.png)
 
 ---
 
 Una vegada iniciem sessió a bitwarden tindrem aquest menu.
 
+![menu bitwarden](/tasca01/img/T01.3.png)
+
 ---
 
 Per utilitzar el generador de contrasenyes s’ha de clicar a l’apartat **mostra**, i seguidament clicar a **generador**, s’obrira aquest menú on podem seleccionar la longitud i els tipus de caràcters de la contrasenya.
+
+![generador de contrasenyes bitwarden](/tasca01/img/T01.4.png)
 
 ---
 
@@ -24,9 +30,13 @@ Per utilitzar el generador de contrasenyes s’ha de clicar a l’apartat **most
 
 Per desar una credencial d'un compte de correu electrònic s’ha de clicar al **+**, i després a **inici de sessió**, després haurem de completar tots els apartats que és soliciten.
 
+![dades de inici de sessio de correu electronic ](/tasca01/img/T01.5.png)
+
 ---
 
 Una vegada complerts tots els apartats clicarem a **guarda** i ja tindrem el nostre credencial d'un compte de correu electrònic.
+
+![credencial d'un compte de correu electrònic ja creat.](/tasca01/img/T01.6.png)
 
 ---
 
@@ -34,9 +44,13 @@ Una vegada complerts tots els apartats clicarem a **guarda** i ja tindrem el nos
 
 Per desar una credencial d'una aplicació o servei web haurem de clicar al signe de **+** a la part inferior de la pantalla i seleccionar l’opció d'**inici de sessió** i després haurem de completar tots els apartats que és soliciten.
 
+![dades de inici de sessio d'una aplicacio o servei web.](/tasca01/img/T01.7.png)
+
 ---
 
 Una vegada complerts tots els apartats clicarem a **guarda** i ja tindrem una credencial d'una aplicació o servei web.
+
+![credencial d'un compte de inici de sessio d'una aplicacio o servei web ja creat.](/tasca01/img/T01.8.png)
 
 ---
 
@@ -44,7 +58,11 @@ Una vegada complerts tots els apartats clicarem a **guarda** i ja tindrem una cr
 
 Primer entrem a la **Chrome Web Store**, busquem **Bitwarden** i l’instalem.
 
+![instalacio de bitwarden a la chrome web store.](/tasca01/img/T01.9.png)
+
 Després iniciem sessió amb el mateix correu i contrasenya que hem utilitzat anteriorment.
+
+![inici de sessio desde la extensio de bitwarden.](/tasca01/img/T01.10.png)
 
 I ja tindrem **Bitwarden** com una extensió.
 
