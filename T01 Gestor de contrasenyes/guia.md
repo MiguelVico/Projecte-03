@@ -8,7 +8,7 @@ Per instalar bitwarden haurem de buscar bitwarden descargar o bitwarden download
 
 Iniciar sessió a bitwarden amb el nostre correu.
 
-![instalacio bitwarden](
+![instalacio bitwarden](/T01Gestordecontrasenyes/img/T01.1.png)
 
 ---
 
