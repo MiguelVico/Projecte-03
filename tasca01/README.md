@@ -77,7 +77,3 @@ Aquesta guia ha d’incloure **captures de pantalla** i **instruccions pas a pas
 - [Pàgina oficial de KeePassXC](https://keepassxc.org/)  
 - [INCIBE – Gestores de contraseñas: qué son y cómo pueden mejorar la seguridad de las empresas](https://www.incibe.es/protege-tu-empresa/blog/gestores-contrasenas)
 
----
-
-## 📂 Estructura Recomanada del Repositori
-
