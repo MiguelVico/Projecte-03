@@ -91,3 +91,82 @@ Executant `sudo slapcat` per veure el contingut de la base de dades LDAP i verif
 ![Sortida de slapcat](/tasca4/img_T04/captura14.png)
 La sortida completa de `slapcat` mostrant l'entrada base `dc=innovatech26,dc=test` i totes les seves propietats.
 
+## 5. Verificació del servei LDAP
+
+### Comprovació de la base de dades LDAP
+![Verificació amb slapcat](/tasca4/img_T04/captura21.png)
+Executant `sudo slapcat` per veure el contingut de la base de dades LDAP i confirmar que la instal·lació és correcta.
+
+## 6. Creació d'Unitats Organitzatives
+
+### Creació del fitxer LDIF
+![Edició del fitxer LDIF](/tasca4/img_T04/captura25.png)
+Creant el fitxer `OU_users.ldif` amb nano per definir la Unitat Organitzativa "Usuaris".
+
+### Contingut del fitxer LDIF
+![Contingut del fitxer LDIF](/tasca4/img_T04/captura22.png)
+El fitxer LDIF conté la definició de la OU amb `ou=Usuaris` i les objectClass necessàries.
+
+### Addició de la OU al LDAP
+![Addició de la OU](/tasca4/img_T04/captura23.png)
+Executant `ldapadd` per afegir la Unitat Organitzativa al directori LDAP.
+
+### Confirmació de l'addició
+![Confirmació de l'addició](/tasca4/img_T04/captura26.png)
+El sistema confirma que s'ha afegit correctament la nova entrada "ou=Usuaris,dc=innovatech26,dc=test".
+
+### Verificació de la nova OU
+![Verificació amb slapcat](/tasca4/img_T04/captura27.png)
+Executant `sudo slapcat` de nou per verificar que la OU "Usuaris" s'ha afegit correctament al directori.
+
+### Configuració de grups locals
+![Configuració de grups](/tasca4/img_T04/captura24.png)
+Afegint l'usuari actual al grup "usuaris" amb `sudo usermod -aG usuaris $USER`.
+
+## 7. Instal·lació de LDAP Account Manager
+
+### Instal·lació del paquet
+![Instal·lació LAM](/tasca4/img_T04/captura28.png)
+Instal·lant `ldap-account-manager` i totes les seves dependències, incloent Apache2 i PHP.
+
+### Verificació d'Apache
+![Estat d'Apache](/tasca4/img_T04/captura29.png)
+Comprovant que Apache2 està actiu i funcionant correctament amb `systemctl status apache2`.
+
+## 8. Configuració de LDAP Account Manager
+
+### Menú principal de LAM
+![Menú LAM](/tasca4/img_T04/captura31.png)
+Pantalla principal de LDAP Account Manager amb opcions per editar ajustos generals i perfils del servidor.
+
+### Configuració de contrasenya del perfil
+![Contrasenya del perfil](/tasca4/img_T04/captura32.png)
+Introduint la contrasenya per accedir a la configuració del servidor LAM.
+
+### Configuració d'idioma i zona horària
+![Configuració d'idioma](/tasca4/img_T04/captura34.png)
+Establint l'idioma per defecte a Español (España) i la zona horària a Europe/Madrid.
+
+### Configuració del lamdaemon
+![Preferències lamdaemon](/tasca4/img_T04/captura35.png)
+Configurant les preferències del lamdaemon amb opcions de servidor, scripts externs i permisos.
+
+### Configuració de seguretat
+![Preferències de seguretat](/tasca4/img_T04/captura36.png)
+Establint polítiques de contrasenyes i opcions d'autenticació de 2 factors.
+
+### Configuració de tipus de comptes
+![Tipus de comptes](/tasca4/img_T04/captura37.png)
+Configurant els sufijos LDAP per a usuaris i grups dins del domini innovatech26.test.
+
+### Creació de sufijos LDAP
+![Creació de sufijos](/tasca4/img_T04/captura38.png)
+LAM detecta que els sufijos no existeixen i ofereix crear-los automàticament.
+
+### Creació de grups Unix
+![Creació de grup Unix](/tasca4/img_T04/captura39.png)
+Formulari per crear un nou grup Unix amb nom del grup, número GID i descripció.
+
+### Configuració de grup d'administradors
+![Grup d'administradors](/tasca4/img_T04/captura40.png)
+Creant el grup "manage" amb els seus paràmetres i opció per editar membres.
