@@ -253,8 +253,6 @@ Establint el DN base de cerca: `dc=innovatech26,dc=test` per a les consultes LDA
 ![Versió LDAP](/tasca4/img_T04/captura60.png)
 Seleccionant la versió del protocol LDAP a utilitzar (versió 3, la més recent i estable).
 
-# T04: Serveis de directori. LDAP - Configuració del Client
-
 ## 12. Configuració de l'Autenticació LDAP al Client
 
 ### Instal·lació de paquets LDAP al client
